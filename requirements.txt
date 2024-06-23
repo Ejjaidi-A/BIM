@@ -1,0 +1,8 @@
+
+opencv-python
+numpy
+torch
+pandas
+requests
+pillow
+setuptools
