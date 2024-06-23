@@ -25,4 +25,4 @@ python yolo.py
 Appuyez sur 'q' pour quitter le flux vidéo.
 
 Auteur
-Donal Steve NGAHAN TCHETGNA
+EJJAIDI Aymane
